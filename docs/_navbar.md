@@ -14,7 +14,7 @@
     * [Java服务端研发图谱](/ServerDev/java-base.md)
 
 * 游戏开发
-    * [Cocos-2dx](/cocos-2dx/base.md)
+    * [Cocos2d-x](/cocos2d-x/base.md)
     * [Unity3d](/unity3d/base.md)
     * [pomelo](/pomelo/basse.md)
     * [skynet](/skynet/base.md)
