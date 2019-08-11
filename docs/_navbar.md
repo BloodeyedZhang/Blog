@@ -8,6 +8,7 @@
     * [Lua](/lua/base.md)
     * [Python](/python/base.md)
     * [Go](/go/base.md)
+    * [Rust](/rust/base.md)
 
 * 后端架构
     * [后端架构师技术图谱](/ServerDev/base.md)
