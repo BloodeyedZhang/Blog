@@ -1,5 +1,6 @@
 * Introduction
     * [简介](README.md)
+    * [docsify](/docsify/base.md)
 
 * 开发语言
     * [Java](/java/base.md)
@@ -18,7 +19,7 @@
 * 游戏开发
     * [Cocos2d-x](/cocos2d-x/base.md)
     * [Unity3d](/unity3d/base.md)
-    * [pomelo](/pomelo/basse.md)
+    * [pomelo](/pomelo/base.md)
     * [skynet](/skynet/base.md)
     * [kbengine](/kbengine/base.md)
     * [fairygui](/fairygui/base.md)
