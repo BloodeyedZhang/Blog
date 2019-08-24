@@ -3,7 +3,7 @@
     * [docsify](/docsify/base.md)
 
 * 开发语言
-    * [Java](/java/base.md)
+    * [Java](/java/_sidebar.md)
     * [JavaScript](/javascript/base.md)
     * [C/C++](/c&c++/base.md)
     * [Lua](/lua/base.md)
