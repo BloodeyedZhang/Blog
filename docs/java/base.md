@@ -9,6 +9,12 @@
 * [7.object-类中的方法](#_7object-类中的方法)
 * [8.接口和抽象类的区别，注意jdk8的接口可以有实现。](#_8接口和抽象类的区别，注意jdk8的接口可以有实现。)
 * [9.动态代理的两种方式，以及区别。](#_9动态代理的两种方式，以及区别。)
+* [10.java序列化的方式。](#_10java序列化的方式。)
+* [11.传值和传引用的区别，java是怎么样的，有没有传值引用。](#_11传值和传引用的区别，java是怎么样的，有没有传值引用。)
+* [12.一个arraylist在循环过程中删除，会不会出问题，为什么。](#_12一个arraylist在循环过程中删除，会不会出问题，为什么。)
+* [13.transactional注解在什么情况下会失效，为什么。](#_13transactional注解在什么情况下会失效，为什么。)
+* [14.Java值传递还是引用传递？](#_14Java值传递还是引用传递？)
+* [15.final 关键字](#_15final-关键字)
 
 
 # 1.HashMap的源码，实现原理，JDK8中对HashMap做了怎样的优化。
@@ -264,6 +270,15 @@ ConcurrentHashMap默认将hash表分为16个桶，诸如get、put、remove等常
 # 13.@transactional注解在什么情况下会失效，为什么。
 
   [link](https://www.cnblogs.com/hunrry/p/9183209.html)
+
+
+# 14.Java值传递还是引用传递？
+  Java是值传递
+
+  [参考文章](https://www.cnblogs.com/xiaoxiaoyihan/p/4883770.html)
+
+# 15.final 关键字
+  [参考文章](https://www.cnblogs.com/xiaoxiaoyihan/p/4974273.html)
 
 
 
