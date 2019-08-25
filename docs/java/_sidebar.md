@@ -2,6 +2,7 @@
   * [学习资料](/java/doc.md)
   * [温故知新](/java/base.md)
   * [数据结构和算法](/java/struct.md)
+  * [深入理解JVM](/java/jvm.md)
 
 * 并发
   * [聊聊并发](http://ifeve.com/volatile/)
@@ -9,3 +10,6 @@
 * 框架
   * [Mina](/java/mina.md)  
   * [Netty](/java/netty.md)  
+
+* 实战
+  * [maven](java/maven.md)
