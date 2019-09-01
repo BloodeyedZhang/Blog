@@ -5,7 +5,7 @@
 * 开发语言
     * [Java](/java/_sidebar.md)
     * [JavaScript](/javascript/base.md)
-    * [C/C++](/c&c++/base.md)
+    * [C/C++](/cplus/base.md)
     * [Lua](/lua/base.md)
     * [Python](/python/base.md)
     * [Go](/go/base.md)
