@@ -15,6 +15,7 @@
     * [后端架构师技术图谱](/ServerDev/base.md)
     * [Java服务端研发图谱](/ServerDev/java-base.md)
     * [搬瓦工网站](https://bwh88.net/)
+    * [RabbitMQ](/rabbitmq/base.md)
 
 * 游戏开发
     * [Cocos2d-x](/cocos2d-x/base.md)
@@ -23,4 +24,5 @@
     * [skynet](/skynet/base.md)
     * [kbengine](/kbengine/base.md)
     * [fairygui](/fairygui/base.md)
+    * [lua](/lua/base.md)
 
