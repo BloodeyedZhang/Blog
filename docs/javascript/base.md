@@ -7,6 +7,7 @@
 
   * [学习Node.js](https://www.nodejs.red/#/)
 
+  * [[Effective JavaScript 笔记]全书总结](https://www.cnblogs.com/wengxuesong/p/5752751.html)
 
 # 扩展
 
